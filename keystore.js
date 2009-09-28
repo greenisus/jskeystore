@@ -1,13 +1,13 @@
 // jskeystore, version 1.0
 // Michael Mayo
 //
-// DBCache is a simple cache that stores objects in local SQL databases (such as sqlite in Safari).
-// To avoid conflicts with your own local databases, it's probably a good idea to keep your DBCache
-// in its own database (which is called DBCache by default).
+// JSKeyStore is a simple cache that stores objects in local SQL databases (such as sqlite in Safari).
+// To avoid conflicts with your own local databases, it's probably a good idea to keep your JSKeyStore
+// in its own database (which is called JSKeyStore by default).
 //
 // To use this, you need to include the JSON library available at http://www.json.org/json2.js
 //
-// DBCache is freely distributable under the terms of the MIT license.
+// JSKeyStore is freely distributable under the terms of the MIT license.
 //
 // Example usage:
 // var cache = new JSKeyStore();
